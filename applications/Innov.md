@@ -44,7 +44,7 @@ Our Team has extensive practical experience in embedded microcontroller technolo
  
 **Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better.**
 
-<img src="https://hntpic.oss-cn-hongkong.aliyuncs.com/218.png" width = "300" height = "300" alt="218" align=center />
+<img src="https://hntpic.oss-cn-hongkong.aliyuncs.com/386.jpeg" width = "300" height = "300" alt="218" align=center />
 <img src="https://hntpic.oss-cn-hongkong.aliyuncs.com/219.png" width = "300" height = "300" alt="219" align=center />
 <img src="https://hntpic.oss-cn-hongkong.aliyuncs.com/220.png" width = "300" height = "300" alt="220" align=center />
 
@@ -141,7 +141,7 @@ Website：https://innovsgp.net/
 
 Twitter：https://twitter.com/innovsgp
 
-Discord：https://discord.gg/ZF726EYsDr
+Discord：https://www.discord.com/users/9374
 
 Payment methods available : We would prefer credit or debit but will accept crypto as well.
 
