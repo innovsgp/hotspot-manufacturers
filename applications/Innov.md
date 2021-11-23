@@ -142,7 +142,7 @@ Website：https://innovsgp.net/
 
 Twitter：https://twitter.com/innovsgp
 
-Discord：https://discord.gg/usKetbQA
+Discord：https://discord.gg/ZF726EYsDr
 
 Payment methods available : We would prefer credit or debit but will accept crypto as well.
 
