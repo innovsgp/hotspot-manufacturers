@@ -132,7 +132,6 @@ We have invested enough funds to produce more than 5000 units per month. If nece
 
 Currently, there are global shortages of IC and other electronic components. Sourcing components continues to be challenging in the current market.
 
- 
 
 # **Other information**
 
