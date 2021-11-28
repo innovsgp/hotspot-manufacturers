@@ -135,7 +135,7 @@ Currently, there are global shortages of IC and other electronic components. Sou
 
 # **Other information**
 
-Contact info (* required) ：raymond@innovsgp.net
+Contact info (* required) ：services@innovsgp.net
 
 Website：https://innovsgp.net/
 
